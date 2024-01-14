@@ -1,0 +1,12 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color: #002;
+}
+
+.mainDiv{
+    color: white;
+    border-radius: 14% 86% 51% 49% / 39% 40% 60% 61% ;
+    padding: 50px;
+    background: linear-gradient(50deg, #5f1ba9, #cd089e);
+}
